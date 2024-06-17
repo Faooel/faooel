@@ -1,7 +1,3 @@
-# GIANNINI Benoit
-
-![Jean Dupont](https://example.com/photo.jpg)
-
 ## Bonjour, je suis Benoit!
 
 Je suis un jeune développeur web passionné par les technologies JavaScript et React, avec des compétences en Node.js, Next.js, et MongoDB. J'ai une grande appétence pour l'analyse de données et je cherche une première expérience professionnelle en tant que développeur ou data analyst.
