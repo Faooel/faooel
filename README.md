@@ -17,11 +17,11 @@ Consultez tous mes projets terminés ici :<br>
 
 ## Compétences techniques
 
-- **Langages de programmation** : JavaScript
+- **Langages de programmation** : JavaScript, Python
 - **Frameworks et bibliothèques** : React, Next.js, Node.js
-- **Bases de données** : MongoDB
+- **Bases de données** : MongoDB, PostgreSQL
 - **Outils et technologies** : Git
 
 ## Contact
 
-- **LinkedIn** : [Benoit GIANNINI](https://www.linkedin.com/in/jeandupont)
+- **LinkedIn** : [Benoit GIANNINI](https://www.linkedin.com/in/benoit-giannini-19884127a/)
